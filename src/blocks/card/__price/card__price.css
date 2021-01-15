@@ -1,0 +1,8 @@
+.card__price {
+  color: black;
+}
+
+.card__price::after {
+  content: '\20BD';
+  margin-left: 10px;
+}

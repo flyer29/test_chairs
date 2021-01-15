@@ -1,0 +1,24 @@
+@import url('../blocks/button/button.css');
+@import url('../blocks/button/_type_buy/button_type_buy.css');
+@import url('../blocks/button/_type_submit/button_type_submit.css');
+@import url('../blocks/card/card.css');
+@import url('../blocks/cards-container/cards-container.css');
+@import url('../blocks/card-wrapper/card-wrapper.css');
+@import url('../blocks/popup/popup.css');
+@import url('../blocks/hidden/hidden.css');
+
+
+body {
+  margin: 0;
+}
+
+.page {
+  background-color: #fff;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
