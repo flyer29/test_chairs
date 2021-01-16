@@ -1,0 +1,11 @@
+@import url('./__image/card__image.css');
+@import url('./__price/card__price.css');
+@import url('./__title/card__title.css');
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+}

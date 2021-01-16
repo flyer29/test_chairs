@@ -1,0 +1,19 @@
+.button {
+  width: 140px;
+  height: 40px;
+  border-radius: 100px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  outline: none;
+  appearance: none;
+  text-transform: capitalize;
+  font-size: 14px;
+  border: none;
+}
+
+.button:hover {
+  background-color: hotpink;
+  cursor: pointer;
+}

@@ -1,0 +1,6 @@
+.card__title {
+  color: grey;
+  text-align: center;
+  margin: 10px auto;
+  max-width: 220px;
+}
