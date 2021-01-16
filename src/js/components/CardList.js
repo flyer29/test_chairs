@@ -13,5 +13,4 @@ export default class CardList {
       this.container.appendChild(this.createCardFunction(item));
     })
   }
-
 };

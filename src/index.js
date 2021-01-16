@@ -1,8 +1,8 @@
 import './pages/main.css';
-import CardList from'./js/components/CardList';
+import CardList from './js/components/CardList';
 import Card from './js/components/Card';
 import data from './js/components/Data';
-import Popup from './js//components/Popup';
+import Popup from './js/components/Popup';
 import Form from './js/components/Form';
 
 const popupElement = document.querySelector('.popup');

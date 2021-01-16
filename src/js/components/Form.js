@@ -4,12 +4,7 @@ export default class Form {
   }
   renderForm = () => {
     const form = this.template.content.firstElementChild.cloneNode(true);
-    console.log(form);
+    this.form = form;
     return form;
-  }
-
-  sendForm = (event) => {
-    event.preventDefault();
-    console.log('send!!!!');
   }
 }
